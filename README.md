@@ -40,7 +40,7 @@ Setup Instructions
 
 1. Clone the repository:
 
-git clone git clone -b GroupAssistantBot https://github.com/TonyZacon/CLWFam.git
+git clone -b GroupAssistantBot https://github.com/TonyZacon/CLWFam.git
 
 cd CLWFam
 
